@@ -16,3 +16,17 @@ Para generar el directorio en PDF, solo corre:
 .. code-block:: Bash
 
     make all
+
+
+¿Cómo agrego mis datos?
+-----------------------
+
+#. Clona el repo.
+
+#. Muy fácil. Tan solo crea tu hoja en *src/*; utilizando el formato reStructured.
+
+#. Agrégalo con un include; en órden alfabético, a *src/main.rst*. 
+
+#. Prueba generar el PDF.
+
+#. Haz un *pull request*.
