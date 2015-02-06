@@ -23,7 +23,7 @@ Para generar el directorio en PDF, solo corre:
 
 #. Clona el repo.
 
-#. Muy fácil. Tan solo crea tu hoja en *src/*; utilizando el formato reStructured.
+#. Crea tu hoja en *src/*; utilizando el formato reStructured.
 
 #. Agrégalo con un include; en órden alfabético, a *src/main.rst*. 
 
