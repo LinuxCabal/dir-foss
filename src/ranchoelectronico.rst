@@ -1,12 +1,12 @@
 Rancho Electrónico
 ==================
-
 Hackerspace libre, autogesitvo independiente y colectivo, dedicado a
 temas de hacktivismo, software libre, seguridad informática,
 conciencia social y más.
 
 Dirección:
-   * Fray  Juan de Torquemada #76, col. Obrera, México DF (Metro Chabacano)
+    | Fray  Juan de Torquemada #76, 
+    | col. Obrera, México DF (Metro Chabacano)
 
 Web:
     * http://ranchoelectronico.org/
