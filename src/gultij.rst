@@ -9,6 +9,9 @@ IRC:
 Github:
     * https://github.com/gultij
 
+Twitter:
+    * https://twitter.com/gultij
+
 Google+:
     * https://plus.google.com/communities/102802385657041516164
 
