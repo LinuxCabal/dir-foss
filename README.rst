@@ -1,4 +1,4 @@
-Éste es un intento de un directorio de organizaciones mexicanas; relacionadas con el FOSS o albuna de sus variaciones. 
+Este es un intento de un directorio de organizaciones mexicanas relacionadas con FOSS o alguna de sus variaciones. 
 
 Si quieres agregar la tuya, edita la wiki.
 
@@ -25,7 +25,7 @@ Para generar el directorio en PDF, solo corre:
 
 #. Crea tu hoja en *src/*; utilizando el formato reStructured.
 
-#. Agrégalo con un include; en órden alfabético, a *src/main.rst*. 
+#. Agrégalo con un include; en orden alfabético, a *src/main.rst*. 
 
 #. Prueba generar el PDF.
 
