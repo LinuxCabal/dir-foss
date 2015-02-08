@@ -1,6 +1,6 @@
 Rancho Electrónico
 ==================
-Hackerspace libre, autogesitvo independiente y colectivo, dedicado a
+Hackerspace libre, autogestivo independiente y colectivo, dedicado a
 temas de hacktivismo, software libre, seguridad informática,
 conciencia social y más.
 
@@ -18,7 +18,7 @@ Twitter:
     * https://twitter.com/hackrancho
 
 AnilloSur:
-    * https://red.anillosur.net/g/ranchoelectrónico
+    * https://red.anillosur.net/g/ranchoelectronico
 
 E-Mail:
     * ranchoelectronico@riseup.net

@@ -1,4 +1,4 @@
-GULTij
+Gultij
 ======
 
 Grupo de Usuarios de Linux en Tijuana.
@@ -24,4 +24,8 @@ Google Groups:
 
 Planeta:
     * http://planet.gultij.org/
+
+OpenCharla (ahora inactivo):
+	* http://opencharla.gultij.org/mp3
+	* http://opencharla.gultij.org/ogg
 

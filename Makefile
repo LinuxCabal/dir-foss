@@ -1,9 +1,9 @@
-all: pdf
+all: pdf/directorio.pdf
 
-pdf: clean
-	mkdir pdf
+pdf/directorio.pdf: src/*.rst
+	mkdir -p pdf
 	rst2pdf src/main.rst -o pdf/directorio.pdf
 
 clean:
-	- rm pdf/*.pdf
+	rm -f pdf/directorio.pdf
 	- rmdir pdf
