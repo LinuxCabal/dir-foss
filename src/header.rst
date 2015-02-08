@@ -2,7 +2,7 @@
 Directorio FOSS de México
 =========================
 ----------------------------------------------------------------
-Una lista de las organizaciones relacionadas con FOSS; en México
+Una lista de las organizaciones relacionadas con FOSS en México
 ----------------------------------------------------------------
 
 :Autores:
