@@ -1,7 +1,7 @@
 all: pdf
 
 pdf: clean
-	mkdir pdf
+	mkdir -p pdf
 	rst2pdf src/main.rst -o pdf/directorio.pdf
 
 clean:
