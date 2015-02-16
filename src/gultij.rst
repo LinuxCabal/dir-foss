@@ -22,6 +22,9 @@ Google Groups:
     * https://groups.google.com/forum/#!forum/gultij-anuncios
     * https://groups.google.com/forum/#!forum/gultij
 
+Web:
+    * http://gultij.org
+
 Planeta:
     * http://planet.gultij.org/
 
