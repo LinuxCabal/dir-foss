@@ -1,4 +1,4 @@
-all: pdf/directorio.pdf
+all: clean test pdf/directorio.pdf
 
 pdf/directorio.pdf: src/*.rst
 	mkdir -p pdf
@@ -7,3 +7,9 @@ pdf/directorio.pdf: src/*.rst
 clean:
 	rm -f pdf/directorio.pdf
 	- rmdir pdf
+
+test: test-cuenta_los_include_en_main
+
+test-cuenta_los_include_en_main:
+	test/cuenta_los_include_en_main
+

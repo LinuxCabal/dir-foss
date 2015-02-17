@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+shopt -s extglob
+
+source $( readlink -f $( dirname $0 ) )/common
+
+# file count
+file_count=$( ls -1 ${path}/src/!(main.rst) | wc -l )
+
+# include count
+include_count=$( grep -Eo '^.. include' ${path}/src/main.rst | wc -l )
+
+exit $(( $file_count - include_count ))
