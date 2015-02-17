@@ -1,4 +1,4 @@
-all: clean test pdf/directorio.pdf
+all: test pdf/directorio.pdf
 
 pdf/directorio.pdf: src/*.rst
 	mkdir -p pdf
