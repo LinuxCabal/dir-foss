@@ -6,7 +6,12 @@ Una lista de las organizaciones relacionadas con FOSS en México
 ----------------------------------------------------------------
 
 :Autores:
-    Renich Bon Ciric <renich@evalinux.com>
+    - alvarezp
+    - dualbus
+    - gwolf
+    - picta
+    - renich
+    - rugebiker
 
 :Licencia: 
     FDL_ 1.3 o >
