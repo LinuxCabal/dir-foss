@@ -7,9 +7,13 @@ pdf/directorio.pdf: src/*.rst
 clean:
 	rm -f pdf/directorio.pdf
 	- rmdir pdf
+	rm -f passed/*
+	- [ -d passed ] && rmdir passed
 
-test: test-cuenta_los_include_en_main
+test: passed/cuenta_los_include_en_main
 
-test-cuenta_los_include_en_main:
+passed/cuenta_los_include_en_main: test/cuenta_los_include_en_main src/*.rst
+	@mkdir -p passed
 	test/cuenta_los_include_en_main
+	touch passed/cuenta_los_include_en_main
 
