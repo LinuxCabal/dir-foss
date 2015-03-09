@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-
-path=$( readlink -f $( dirname $0 )/.. )
