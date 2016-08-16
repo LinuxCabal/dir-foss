@@ -5,7 +5,7 @@ temas de hacktivismo, software libre, seguridad informática,
 conciencia social y más.
 
 Dirección:
-    | Fray  Juan de Torquemada #76, 
+    | Lorenzo Boturini 61
     | col. Obrera, México DF (Metro Chabacano)
 
 Web:
