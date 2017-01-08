@@ -1,6 +1,7 @@
 .. include:: header.rst
 
 .. include:: glib.rst
+.. include:: glix.rst
 .. include:: gluch.rst
 .. include:: gulag.rst
 .. include:: gultec.rst
